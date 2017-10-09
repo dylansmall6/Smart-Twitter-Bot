@@ -1,0 +1,9 @@
+{
+  "name": "twitter-bot",
+  "version": "0.0.0",
+  "description": "Twitter Bot",
+  "main": "app.js",
+  "author": {
+    "name": "40722"
+  }
+}
